@@ -1,5 +1,5 @@
-##**Electric Vehicle Population Analysis**
-
+**Electric Vehicle Population Analysis**
+---
 This notebook explores the [Electric Vehicle Population Data](https://www.kaggle.com/datasets/ratikkakkar/electric-vehicle-population-data/data), focusing on trends in vehicle adoption, battery range, manufacturer distribution, pricing, and geographic spread.
 
 This notebook presents key types of data visualizations to uncover insights from the electric vehicle (EV) dataset:
